@@ -82,6 +82,46 @@ Learning Backend & Cloud Technologies
 
 ---
 
+## 🏅 Developer Badges
+
+![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-success)
+![Maintainer](https://img.shields.io/badge/Maintainer-yes-green)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-purple)
+![Bug Hunter](https://img.shields.io/badge/Bug-Hunter-red)
+![Top Contributor](https://img.shields.io/badge/Top-Contributor-orange)
+![Code Lover](https://img.shields.io/badge/Code-Lover-blue)
+![Always Learning](https://img.shields.io/badge/Always-Learning-yellow)
+![Problem Solver](https://img.shields.io/badge/Problem-Solver-blueviolet)
+![Tech Enthusiast](https://img.shields.io/badge/Tech-Enthusiast-green)
+![Developer](https://img.shields.io/badge/Developer-Full%20Stack-blue)
+![Open Source](https://img.shields.io/badge/Open-Source-brightgreen)
+![Community Helper](https://img.shields.io/badge/Community-Helper-orange)
+![Pull Request Master](https://img.shields.io/badge/PullRequests-Master-purple)
+![Commit Machine](https://img.shields.io/badge/Commit-Machine-blue)
+![Night Coder](https://img.shields.io/badge/Night-Coder-black)
+![Coffee Powered](https://img.shields.io/badge/Coffee-Powered-brown)
+![Fast Learner](https://img.shields.io/badge/Fast-Learner-success)
+![Idea Creator](https://img.shields.io/badge/Idea-Creator-yellow)
+![Debugging Expert](https://img.shields.io/badge/Debugging-Expert-red)
+![Future Engineer](https://img.shields.io/badge/Future-Engineer-blue)
+![Tech Explorer](https://img.shields.io/badge/Tech-Explorer-green)
+![Innovation Mindset](https://img.shields.io/badge/Innovation-Mindset-purple)
+![App Builder](https://img.shields.io/badge/App-Builder-orange)
+![Flutter Dev](https://img.shields.io/badge/Flutter-Developer-blue)
+![Web Developer](https://img.shields.io/badge/Web-Developer-green)
+![Backend Learner](https://img.shields.io/badge/Backend-Learner-yellow)
+![Cloud Learner](https://img.shields.io/badge/Cloud-Learner-lightblue)
+![Git Expert](https://img.shields.io/badge/Git-Expert-orange)
+![GitHub Power User](https://img.shields.io/badge/GitHub-PowerUser-black)
+![Coding Daily](https://img.shields.io/badge/Coding-Daily-brightgreen)
+![Stack Overflow Reader](https://img.shields.io/badge/StackOverflow-Reader-orange)
+![UI Lover](https://img.shields.io/badge/UI-Lover-blue)
+![API Builder](https://img.shields.io/badge/API-Builder-green)
+![Automation Fan](https://img.shields.io/badge/Automation-Fan-purple)
+![Startup Dreamer](https://img.shields.io/badge/Startup-Dreamer-yellow)
+![Tech Builder](https://img.shields.io/badge/Tech-Builder-blue)
+
 # Current Goals
 
 Build real-world applications
@@ -96,4 +136,5 @@ Contribute to open source
 If you like my projects, please give them a ⭐
 
 Thanks for visiting my profile...
+
 
