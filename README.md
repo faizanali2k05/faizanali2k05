@@ -1,19 +1,18 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=faizanali2k05&show_icons=true)
 # Hi 👋, I'm Faizan Ali
 
-💻 Computer Science Student
-🚀 Flutter Developer
-🌍 Learning Backend & Cloud Technologies
+Computer Science Student
+Flutter Developer
+Learning Backend & Cloud Technologies
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=faizanali2k05\&theme=onedark\&row=2\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanali2k05\&show_icons=true\&theme=radical)
 
@@ -23,13 +22,13 @@
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizanali2k05\&theme=react-dark)
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -60,7 +59,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
 ![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)
@@ -68,13 +67,13 @@
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=faizanali2k05)
 
 ---
 
-# ⭐ Fun Badges
+# Fun Badges
 
 ![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-success)
 ![Maintainer](https://img.shields.io/badge/Maintainer-yes-green)
@@ -83,17 +82,18 @@
 
 ---
 
-# 🚀 Current Goals
+# Current Goals
 
-🔥 Build real-world applications
-📱 Master Flutter development
-☁️ Learn backend and cloud systems
-🤝 Contribute to open source
+Build real-world applications
+Master Flutter development
+Learn backend and cloud systems
+Contribute to open source
 
 ---
 
-# ☕ Support
+# Support
 
 If you like my projects, please give them a ⭐
 
-Thanks for visiting my profile 🚀
+Thanks for visiting my profile...
+
