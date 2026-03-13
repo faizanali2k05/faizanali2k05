@@ -8,7 +8,6 @@ Learning Backend & Cloud Technologies
 
 # GitHub Trophies
 
-[![trophy](https://alifaizan.vercel.app/?username=faizanali2k05)](https://github.com/ryo-ma/github-profile-trophy)
 [![An image of @faizanali2k05's Holopin badges](https://holopin.me/faizanali2k05)](https://holopin.io/@faizanali2k05)
 
 ---
@@ -137,6 +136,7 @@ Contribute to open source
 If you like my projects, please give them a ⭐
 
 Thanks for visiting my profile...
+
 
 
 
