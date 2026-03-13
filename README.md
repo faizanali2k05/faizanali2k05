@@ -1,7 +1,7 @@
 # Hi 👋, I'm Faizan Ali
 
 Computer Science Student
-Flutter Developer
+FullStack Developer
 Learning Backend & Cloud Technologies
 
 ---
@@ -136,6 +136,7 @@ Contribute to open source
 If you like my projects, please give them a ⭐
 
 Thanks for visiting my profile...
+
 
 
 
