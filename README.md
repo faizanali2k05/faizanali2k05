@@ -63,12 +63,12 @@ Currently   : Building projects and improving software architecture skills
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizanali2k05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanali2k05&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizanali2k05&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanali2k05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=faizanali2k05&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=faizanali2k05&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,36 +83,18 @@ Currently   : Building projects and improving software architecture skills
 
 ## Current Goals
 
-<table>
-<tr>
-<td width="50%">
-
 * Building practical full-stack projects
 * Learning scalable backend architecture
 * Exploring cloud deployment workflows
-* Improving Flutter application development
-
-</td>
-<td width="50%">
-
+* Improving Flutter development
 * Strengthening problem-solving skills
-* Working with Docker and DevOps basics
-* Creating clean and maintainable codebases
-* Expanding knowledge in modern web technologies
-
-</td>
-</tr>
-</table>
+* Learning Docker and DevOps basics
 
 ---
 
-## Featured Tools & Interests
+## Profile Views
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizanali2k05&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizanali2k05&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=faizanali2k05&style=for-the-badge" />
 </p>
 ```
