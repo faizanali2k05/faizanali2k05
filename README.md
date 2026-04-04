@@ -39,26 +39,6 @@ Goal        : Build production-level software
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3>Project 1</h3>
-<p>Full-stack web application with authentication and API integration.</p>
-<a href="#"><img src="https://img.shields.io/badge/View-Project-black?style=for-the-badge"></a>
-</td>
-
-<td width="50%">
-<h3>Project 2</h3>
-<p>Flutter mobile app with Firebase backend and real-time features.</p>
-<a href="#"><img src="https://img.shields.io/badge/View-Project-black?style=for-the-badge"></a>
-</td>
-</tr>
-</table>
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -83,7 +63,10 @@ Goal        : Build production-level software
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faizanali2k05/faizanali2k05/output/snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizanali2k05/faizanali2k05/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/faizanali2k05/faizanali2k05/output/snake.svg">
+  </picture>
 </p>
 
 ---
@@ -99,7 +82,7 @@ Goal        : Build production-level software
 ## Current Goals
 
 * Build scalable backend systems
-* Deploy apps using cloud platforms
+* Deploy applications using cloud platforms
 * Improve system design knowledge
 * Contribute to open source
 
