@@ -14,79 +14,51 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Backend+and+Cloud+Technology+Learner;Building+Practical+Software+Projects;Flutter+%7C+React+%7C+Node.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Backend+and+Cloud+Technology+Learner;Building+Real+World+Projects;Flutter+%7C+React+%7C+Node.js" />
 </p>
+
+---
 
 ## About Me
 
+```txt
 Name        : Faizan Ali
 Education   : Computer Science Student
 Focus       : Full-Stack Development
 Interests   : Backend Systems, Cloud Technologies, Mobile Development
-Currently   : Building projects and improving software architecture skills
+Currently   : Building real-world projects and improving architecture skills
+````
+
+---
 
 ## Tech Stack
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,dart,cpp" />
-</p>
-
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
-</p>
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase" />
-</p>
-
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
+---
+
+## GitHub Analytics (Live)
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizanali2k05&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanali2k05&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=faizanali2k05&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanali2k05&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
+## Contribution Graph (Live Activity)
 
 ---
 
 ## Current Goals
 
-* Building practical full-stack projects
+* Building production-level full-stack applications
 * Learning scalable backend architecture
-* Exploring cloud deployment workflows
-* Improving Flutter development
-* Strengthening problem-solving skills
-* Learning Docker and DevOps basics
+* Exploring cloud platforms and deployment
+* Improving Flutter app performance
+* Writing clean, maintainable code
 
 ---
 
 ## Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizanali2k05&style=for-the-badge" />
-</p>
