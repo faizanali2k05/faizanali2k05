@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Faizan Ali</h1>
 <h3 align="center">Computer Science Student • Full-Stack Developer • Backend & Cloud Enthusiast</h3>
 
@@ -18,11 +17,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Backend+and+Cloud+Technology+Learner;Building+Practical+Software+Projects;Flutter+%7C+React+%7C+Node.js" />
 </p>
 
----
-
 ## About Me
 
-```txt
 Name        : Faizan Ali
 Education   : Computer Science Student
 Focus       : Full-Stack Development
