@@ -1,20 +1,20 @@
 <h1 align="center">Faizan Ali</h1>
-<h3 align="center">Computer Science Student • Full-Stack Developer • Backend & Cloud Enthusiast</h3>
+<h3 align="center">Full-Stack Developer • Backend & Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:faizanali15111511@gmail.com">
-    <img src="https://img.shields.io/badge/Email-faizanali15111511%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/faizanali2k05/">
-    <img src="https://img.shields.io/badge/LinkedIn-Faizan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://faizanali2k05.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Backend+and+Cloud+Technology+Learner;Building+Real+World+Projects;Flutter+%7C+React+%7C+Node.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Focused+Full-Stack+Developer;Cloud+Learner;Building+Scalable+Applications;React+%7C+Flutter+%7C+Node.js" />
 </p>
 
 ---
@@ -23,42 +23,91 @@
 
 ```txt
 Name        : Faizan Ali
-Education   : Computer Science Student
-Focus       : Full-Stack Development
-Interests   : Backend Systems, Cloud Technologies, Mobile Development
-Currently   : Building real-world projects and improving architecture skills
+Role        : Full-Stack Developer
+Focus       : Backend Systems & Cloud Technologies
+Learning    : System Design, APIs, Scalable Architecture
+Goal        : Build production-level software
 ````
 
 ---
 
 ## Tech Stack
 
-### Languages
-
-### Frontend
-
-### Backend & Database
-
-### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,dart,cpp,react,flutter,nodejs,firebase,supabase,docker,git,github,vscode" />
+</p>
 
 ---
 
-## GitHub Analytics (Live)
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3>Project 1</h3>
+<p>Full-stack web application with authentication and API integration.</p>
+<a href="#"><img src="https://img.shields.io/badge/View-Project-black?style=for-the-badge"></a>
+</td>
+
+<td width="50%">
+<h3>Project 2</h3>
+<p>Flutter mobile app with Firebase backend and real-time features.</p>
+<a href="#"><img src="https://img.shields.io/badge/View-Project-black?style=for-the-badge"></a>
+</td>
+</tr>
+</table>
 
 ---
 
-## Contribution Graph (Live Activity)
+## GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faizanali2k05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanali2k05&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=faizanali2k05&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanali2k05&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faizanali2k05/faizanali2k05/output/snake.svg" />
+</p>
+
+---
+
+## Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faizanali2k05&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+</p>
 
 ---
 
 ## Current Goals
 
-* Building production-level full-stack applications
-* Learning scalable backend architecture
-* Exploring cloud platforms and deployment
-* Improving Flutter app performance
-* Writing clean, maintainable code
+* Build scalable backend systems
+* Deploy apps using cloud platforms
+* Improve system design knowledge
+* Contribute to open source
 
 ---
 
 ## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faizanali2k05&style=for-the-badge" />
+</p>
+```
