@@ -24,9 +24,6 @@ Education   : Computer Science Student
 Focus       : Full-Stack Development
 Interests   : Backend Systems, Cloud Technologies, Mobile Development
 Currently   : Building projects and improving software architecture skills
-````
-
----
 
 ## Tech Stack
 
@@ -93,4 +90,3 @@ Currently   : Building projects and improving software architecture skills
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faizanali2k05&style=for-the-badge" />
 </p>
-```
