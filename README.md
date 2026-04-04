@@ -1,66 +1,118 @@
-# Faizan Ali
+````md
+<h1 align="center">Faizan Ali</h1>
+<h3 align="center">Computer Science Student • Full-Stack Developer • Backend & Cloud Enthusiast</h3>
 
-Computer Science Student
-Full-Stack Developer
-Interested in Backend and Cloud Technologies
+<p align="center">
+  <a href="mailto:faizanali15111511@gmail.com">
+    <img src="https://img.shields.io/badge/Email-faizanali15111511%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/faizanali2k05/">
+    <img src="https://img.shields.io/badge/LinkedIn-Faizan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://faizanali2k05.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
----
-
-## Contact
-
-Email: [faizanali15111511@gmail.com](mailto:faizanali15111511@gmail.com)
-Portfolio: https://faizanali2k05.netlify.app/
-LinkedIn: https://www.linkedin.com/in/faizanali2k05/
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizanali2k05\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanali2k05\&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Backend+and+Cloud+Technology+Learner;Building+Practical+Software+Projects;Flutter+%7C+React+%7C+Node.js" />
+</p>
 
 ---
 
-## Contribution Activity
+## About Me
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizanali2k05)
+```txt
+Name        : Faizan Ali
+Education   : Computer Science Student
+Focus       : Full-Stack Development
+Interests   : Backend Systems, Cloud Technologies, Mobile Development
+Currently   : Building projects and improving software architecture skills
+````
 
 ---
 
-## Technologies
+## Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,dart,cpp" />
+</p>
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
+</p>
 
-### Backend
+### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase" />
+</p>
 
-### Tools
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
 
 ---
 
-## Current Focus
+## GitHub Analytics
 
-Building practical software projects
-Improving Flutter development skills
-Learning backend architecture and cloud platforms
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizanali2k05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanali2k05&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=faizanali2k05&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanali2k05&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## Current Goals
+
+<table>
+<tr>
+<td width="50%">
+
+* Building practical full-stack projects
+* Learning scalable backend architecture
+* Exploring cloud deployment workflows
+* Improving Flutter application development
+
+</td>
+<td width="50%">
+
+* Strengthening problem-solving skills
+* Working with Docker and DevOps basics
+* Creating clean and maintainable codebases
+* Expanding knowledge in modern web technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Tools & Interests
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faizanali2k05&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faizanali2k05&style=for-the-badge&color=0e75b6" />
+</p>
+```
