@@ -1,0 +1,29 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-summary-cards
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards (tokyonight theme — blue accents)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: faizanali2k05
+          UTC_OFFSET: 5
