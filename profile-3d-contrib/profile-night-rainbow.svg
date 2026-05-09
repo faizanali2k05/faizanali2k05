@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 1200">
+  <defs>
+    <style>
+      .placeholder-bg { fill: #0a0e27; }
+      .placeholder-text { fill: #00BFFF; font-family: 'JetBrains Mono', monospace; font-size: 18px; text-anchor: middle; }
+      .placeholder-title { fill: #1E90FF; font-family: 'JetBrains Mono', monospace; font-size: 24px; font-weight: bold; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect class="placeholder-bg" width="100%" height="100%"/>
+  <text class="placeholder-title" x="500" y="600">3D Contribution Graph</text>
+  <text class="placeholder-text" x="500" y="650">Workflow generated • Run on GitHub</text>
+</svg>
