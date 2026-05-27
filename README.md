@@ -11,6 +11,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0066CC,100:00BFFF&height=240&section=header&text=FAIZAN%20ALI&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Cloud%20Engineer%20%E2%80%A2%20AI%20%26%20Web3%20Builder&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
 </a>
 
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffaizanali2k05&style=flat" alt="Rankistan rank badge">
+</a>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&center=true&vCenter=true&color=00BFFF&width=1100&lines=React+%2B+Python+%2B+PostgreSQL+%E2%80%A2+Production-grade+web+systems;Google+Cloud+%26+AWS+%E2%80%A2+Deploy%2C+scale%2C+monitor%2C+iterate;Building+SwarmChain+%E2%80%A2+AGI+%C3%97+On-chain+consensus;Building+RemitSol+%E2%80%A2+Stablecoin+remittance+rails;40%2B+shipped+projects+%E2%80%A2+Multan%2C+Pakistan+%E2%86%92+the+world" />
 </p>
