@@ -2,7 +2,7 @@
 
 # Faizan Ali
 
-**Full-Stack Developer · DevOps · Web3 & Blockchain**
+**Full-Stack Developer · Rust Developer · DevOps · Web3 & Blockchain**
 
 Building practical, scalable web applications and exploring decentralized systems.
 
@@ -14,18 +14,18 @@ Building practical, scalable web applications and exploring decentralized system
 
 ## About Me
 
-I'm a computer science student at Air University and a freelance developer since **2021**. I work across full-stack development, cloud and DevOps, and I'm interested in AI, Web3, and blockchain technologies.
+I'm a computer science student at Air University and a freelance developer since **2021**. I primarily build full-stack applications with **Next.js and Node.js**, and backend services with **FastAPI**. I work with REST, GraphQL, WebSocket, and third-party API integrations, write Rust software and publish open-source packages. I'm also interested in DevOps, AI, Web3, and blockchain.
 
 ## Tech Stack
 
 | Area | Technologies |
 | --- | --- |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
-| **Backend** | Python, FastAPI, Django, Flask, Node.js, Express, REST APIs, GraphQL |
+| **Frontend** | Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS |
+| **Backend & APIs** | Node.js, FastAPI, Python, Rust, Express, REST APIs, GraphQL, WebSockets, Webhooks, OAuth, third-party API integrations |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis, SQLite |
 | **DevOps & Cloud** | Linux, Bash, Git, GitHub Actions, Docker, Nginx, CI/CD, AWS, Google Cloud, Firebase, Vercel |
 | **Web3 & Blockchain** | Solidity, Ethereum, EVM, Smart Contracts, ethers.js, Hardhat, Foundry, Web3.js, IPFS |
-| **AI & Tools** | PyTorch, TensorFlow, LangChain, Postman, Figma |
+| **AI** | PyTorch, TensorFlow, LangChain |
 
 ## Experience
 
@@ -33,9 +33,15 @@ I'm a computer science student at Air University and a freelance developer since
 
 Building and delivering software solutions independently, from frontend interfaces and backend APIs to deployment and maintenance.
 
-## Projects
+## Open Source & Packages
 
-Explore my work and selected projects at **[faizanali.cloud](https://faizanali.cloud)**.
+I publish developer tools and packages across Rust, Python, and JavaScript ecosystems.
+
+- [crates.io — Rust crates](https://crates.io/users/faizanali2k05)
+- [PyPI — Python packages](https://pypi.org/user/faizanali2k05/)
+- [npm — JavaScript packages](https://www.npmjs.com/~faizanali2k05)
+
+Explore my projects at **[faizanali.cloud](https://faizanali.cloud)**.
 
 ## GitHub Stats
 
@@ -56,4 +62,4 @@ Explore my work and selected projects at **[faizanali.cloud](https://faizanali.c
 
 ## Connect
 
-[Portfolio](https://faizanali.cloud) · [LinkedIn](https://www.linkedin.com/in/faizanali2k05/) · [Email](mailto:faizanali15111511@gmail.com) · [ORCID](https://orcid.org/0009-0007-7870-6627)
+[Portfolio](https://faizanali.cloud) · [LinkedIn](https://www.linkedin.com/in/faizanali2k05/) · [ResearchGate](https://www.researchgate.net/profile/Faizan-Ali-70?ev=hdr_xprf) · [Email](mailto:faizanali15111511@gmail.com)
